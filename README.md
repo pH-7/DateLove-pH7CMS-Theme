@@ -26,7 +26,7 @@ Pierre-Henry Soria
 
 ## Contact
 
-By email at *pierrehenrysoria [[AT]] gmail [[D0T]] com* or at *hello [[AT]] ph7cms [[D0T]] com*
+By email at: *pierrehenrysoria [[AT]] gmail [[D0T]] com* or at: *hello [[AT]] ph7cms [[D0T]] com*
 
 
 ## License
