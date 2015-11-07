@@ -11,7 +11,7 @@ First off, you have to install pH7CMS, then upload this template (datelove folde
 */templates/themes/* folder. After that, you can enable it in the [http://ph7cms.com/doc/en/how-to-go-to-admin-panel](admin panel), Settings -> General -> "Theme by default".
 
 
-![Example of the theme](datelove/preview.png)
+![Example of the theme](datelove/img/preview.png)
 
 
 ## Requirements
