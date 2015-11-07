@@ -3,7 +3,7 @@
 
 ## Overview
 
-**DateLove** is a **Dating template** for [pH7 Social Dating CMS](http://ph7cms.com/pro). 
+**DateLove** is a **Dating template** for [pH7 Social Dating CMS](http://ph7cms.com/pro/). 
 
 This template has been especially designed for Online Dating Site. 
 
