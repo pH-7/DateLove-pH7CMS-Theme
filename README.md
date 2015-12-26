@@ -8,7 +8,7 @@
 This template has been especially designed for Online Dating Site. 
 
 First off, you have to install pH7CMS, then upload this template (datelove folder) into the 
-*/templates/themes/* folder. After that, you can enable it in the [http://ph7cms.com/doc/en/how-to-go-to-admin-panel](admin panel), Settings -> General -> "Theme by default".
+*/templates/themes/* folder. After that, you can enable it in the [admin panel](http://ph7cms.com/doc/en/how-to-go-to-admin-panel), Settings -> General -> "Theme by default".
 
 
 ![Example of the theme](datelove/img/preview.png)
